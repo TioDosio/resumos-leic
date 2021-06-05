@@ -55,7 +55,7 @@ $$
 \vec F(x,y)=\left(h(x,y), j(x,y)\right)
 $$
 
-O gráfico de esta função teria 4 dimensões (2 do domínio + 2 do contra domínio)-
+O gráfico de esta função teria 4 dimensões (2 do domínio + 2 do contra domínio)
 
 :::
 
